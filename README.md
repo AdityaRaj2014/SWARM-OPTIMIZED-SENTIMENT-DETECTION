@@ -1,6 +1,6 @@
 # SWARM-OPTIMIZED-SENTIMENT-DETECTION
 
-This project focuses on sentiment detection enhanced with swarm optimization techniques. The main objective is to improve the accuracy and efficiency of sentiment analysis by leveraging swarm intelligence for better feature selection and optimization. The system classifies text into positive, negative, or neutral sentiments and can be applied to domains such as social media analysis, customer feedback, and opinion mining.
+This project focuses on sentiment detection enhanced with swarm optimization techniques. The main objective is to improve the accuracy and efficiency of sentiment analysis by leveraging swarm intelligence for better feature selection and optimization. The system classifies text into positive, negative, or neutral sentiments and can be applied to domains such as social media analysis, customer feedback, and opinion mining
 <br>
 Sentiment detection using machine learning models.
 <br>
